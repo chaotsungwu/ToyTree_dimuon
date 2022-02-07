@@ -1,2 +1,2 @@
-# A simple dimuon decay reconstruction on high energy physics (random generated data) 
-You can understand the simple reconstruction strategy from the given generated data (comes fron Tree modulus)
+# A simple dimuon decay reconstruction on high energy physics (randomly-generated data) 
+You can understand the simple reconstruction strategy from the following steps to procedure my codes:

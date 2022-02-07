@@ -13,4 +13,4 @@ For the **sideband subtraction**: toytree_pt.C --> toytree_final.C\
 For the **fitting method**: toytree_final_another.C --> toytree_final_another_fit.C
 ### 4. Combine the results of the pT distribution from two methods to compare if they are consistent. Also, base on the result of "fitting method" (theoritically, it has better precision than another method), and put the result of "sideband subtraction" on the numerator, you will get the pT distribution of their ratio which is one way to see how far they are different (of course, error analysis is needed to be considered during the calculation).
 toytree_final_combine.C --> toytree_final_ratio.C
-### *All my result can be found in the "Toy Monte Carlo_Dimuon Decay.pptx", and you can have a check-up after you finish it. Please don't hesitate to let me know if there is any mistakes.*
+### *All my result can be found in the "Toy Monte Carlo_Dimuon Decay.pdf", and you can have a check-up after you finish it. Please don't hesitate to let me know if there is any mistakes.*
